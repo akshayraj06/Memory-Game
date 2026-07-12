@@ -9,8 +9,19 @@ A sleek, modern memory card-matching game built with **React Native** and **Expo
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-[⬇️ Download APK](https://github.com/<your-username>/memory-game/releases/download/v1.0.0/memory-game.apk)
+</div>
 
+<div align="center">
+  <a href="https://github.com/akshayraj06/Memory-Game/releases/download/v1.0.0/memory-game.apk">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_APK-v1.0.0-6C3483?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./screenshots/gameplay.png" width="260" />
+  <img src="./screenshots/game-complete.png" width="260" />
 </div>
 
 ---
@@ -23,7 +34,7 @@ gradient backgrounds, smooth flip animations, and persistent high-score tracking
 | | |
 |---|---|
 | **App Name** | Memory Game |
-| **Developer** | <Your Name> |
+| **Developer** | Y. Akshay Raj |
 | **Version** | 1.0.0 |
 | **Platform** | Android |
 | **Built with** | React Native, Expo, TypeScript |
@@ -36,20 +47,15 @@ gradient backgrounds, smooth flip animations, and persistent high-score tracking
 - 🎨 Modern gradient UI
 - 🔁 One-tap restart
 
-## 📸 Screenshots
-
-<!-- Add screenshots here once you have them -->
-<div align="center">
-  <img src="./screenshots/gameplay.png" width="250" />
-  <img src="./screenshots/matched.png" width="250" />
-</div>
-
 ## ⬇️ Download
 
-Grab the latest APK from the [Releases page](https://github.com/<your-username>/memory-game/releases/latest),
-or use the direct link below:
+<div align="center">
+  <a href="https://github.com/akshayraj06/Memory-Game/releases/download/v1.0.0/memory-game.apk">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_APK-v1.0.0-6C3483?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</div>
 
-**[📥 Download Memory Game v1.0.0 (.apk)](https://github.com/<your-username>/memory-game/releases/download/v1.0.0/memory-game.apk)**
+Or browse all versions on the [Releases page](https://github.com/akshayraj06/Memory-Game/releases/latest).
 
 > ⚠️ Since this isn't from the Play Store, Android may warn about "installing from
 > unknown sources." You'll need to allow it in your phone's settings the first time.
@@ -57,8 +63,8 @@ or use the direct link below:
 ## 🛠️ Running Locally (for developers)
 
 ```bash
-git clone https://github.com/<your-username>/memory-game.git
-cd memory-game
+git clone https://github.com/akshayraj06/Memory-Game.git
+cd Memory-Game
 npm install
 npx expo start
 ```
@@ -67,8 +73,8 @@ Scan the QR code with the **Expo Go** app to run it on your phone.
 
 ## 🧑‍💻 Developer
 
-Built by **<Your Name>**
-[GitHub](https://github.com/<your-username>) · [Contact](mailto:you@example.com)
+Built by **Y. Akshay Raj**
+[GitHub](https://github.com/akshayraj06)
 
 ## 📄 License
 
