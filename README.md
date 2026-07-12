@@ -65,12 +65,10 @@ The objective is simple:
 
 ---
 
-# 📥 Download APK
+# 📥 Download APK LINK
 
 <div align="center">
-
-<h2>🚀 Ready to Play?</h2>
-
+ 
 <p>
 Experience the latest version of <b>Memory Game</b> with beautiful graphics, smooth gameplay, and exciting challenges.
 </p>
@@ -80,11 +78,8 @@ Experience the latest version of <b>Memory Game</b> with beautiful graphics, smo
 <a href="https://expo.dev/artifacts/eas/UZvCFoqZhtEpYvUtpDKONYoYA_27Yi0SDlB0-1ga4l8.apk">
   <img src="https://img.shields.io/badge/🎮%20DOWNLOAD%20LATEST%20APK-22C55E?style=for-the-badge&logo=android&logoColor=white" height="65">
 </a>
-
 <br><br>
-
 ⭐ <b>Latest Version</b> &nbsp; • &nbsp; 📱 <b>Android</b> &nbsp; • &nbsp; ⚡ <b>Fast Download</b>
-
 <br><br>
 
 <a href="https://github.com/akshayraj06/Memory-Game/releases">
@@ -96,7 +91,6 @@ Experience the latest version of <b>Memory Game</b> with beautiful graphics, smo
 > 💡 **Installation Tip:** If prompted, enable **"Install from Unknown Sources"** to install the APK.
 
 </div>
----
 
 # 🛠 Built With
 
