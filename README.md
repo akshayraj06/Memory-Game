@@ -32,8 +32,8 @@
 
 <div align="center">
 
-<img src="./screenshots/gameplay.png" width="250"/>
-<img src="./screenshots/game-complete.png" width="250"/>
+<img src="./screenshots/game-play.png.jpeg" width="250"/>
+<img src="./screenshots/game-complete.jpeg" width="250"/>
 
 </div>
 
