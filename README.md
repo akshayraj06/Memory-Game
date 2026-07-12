@@ -69,16 +69,33 @@ The objective is simple:
 
 <div align="center">
 
-# 👉 [📲 Download Latest APK](https://expo.dev/artifacts/eas/UZvCFoqZhtEpYvUtpDKONYoYA_27Yi0SDlB0-1ga4l8.apk)
+<h2>🚀 Ready to Play?</h2>
+
+<p>
+Experience the latest version of <b>Memory Game</b> with beautiful graphics, smooth gameplay, and exciting challenges.
+</p>
+
+<br>
+
+<a href="https://expo.dev/artifacts/eas/UZvCFoqZhtEpYvUtpDKONYoYA_27Yi0SDlB0-1ga4l8.apk">
+  <img src="https://img.shields.io/badge/🎮%20DOWNLOAD%20LATEST%20APK-22C55E?style=for-the-badge&logo=android&logoColor=white" height="65">
+</a>
+
+<br><br>
+
+⭐ <b>Latest Version</b> &nbsp; • &nbsp; 📱 <b>Android</b> &nbsp; • &nbsp; ⚡ <b>Fast Download</b>
+
+<br><br>
+
+<a href="https://github.com/akshayraj06/Memory-Game/releases">
+  <img src="https://img.shields.io/badge/View%20All%20Releases-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+> 💡 **Installation Tip:** If prompted, enable **"Install from Unknown Sources"** to install the APK.
 
 </div>
-
-Or visit the Releases page
-
-👉 https://github.com/akshayraj06/Memory-Game/releases
-
-> Android may ask permission to install apps from Unknown Sources.
-
 ---
 
 # 🛠 Built With
