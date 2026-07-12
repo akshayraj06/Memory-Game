@@ -18,7 +18,7 @@
 
 <br>
 
-<a href="application-6cd074fe-106e-422c-bed4-4017b9307ec6.apk">
+<a href="https://expo.dev/artifacts/eas/UZvCFoqZhtEpYvUtpDKONYoYA_27Yi0SDlB0-1ga4l8.apk">
 <img src="https://img.shields.io/badge/⬇️ DOWNLOAD APK-6C3483?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 
@@ -81,7 +81,7 @@ The objective is simple:
 
 <div align="center">
 
-# 👉 [📲 Download Latest APK](YOUR_APK_LINK)
+# 👉 [📲 Download Latest APK](https://expo.dev/artifacts/eas/UZvCFoqZhtEpYvUtpDKONYoYA_27Yi0SDlB0-1ga4l8.apk)
 
 </div>
 
