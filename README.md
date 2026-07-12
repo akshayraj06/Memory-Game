@@ -4,9 +4,12 @@
 
 A sleek, modern memory card-matching game built with **React Native** and **Expo**.
 
-![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)   
+
 ![Expo](https://img.shields.io/badge/Expo-SDK%2051-000020?logo=expo&logoColor=white)
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 </div>
