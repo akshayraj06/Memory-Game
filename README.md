@@ -42,23 +42,14 @@
 # ✨ Features
 
 ✅ Beautiful Modern UI
-
 ✅ Gradient Background
-
 ✅ Smooth Card Flip Animations
-
 ✅ Pop Animation on Match
-
 ✅ Random Card Shuffle Every Game
-
 ✅ High Score Saved using AsyncStorage
-
 ✅ Responsive Layout
-
 ✅ One Tap Restart
-
 ✅ Fast & Lightweight
-
 ✅ Built with Expo
 
 ---
@@ -68,11 +59,8 @@
 The objective is simple:
 
 🃏 Flip two cards.
-
 🎯 Find matching pairs.
-
 🏆 Match all pairs in the fewest moves possible.
-
 🔥 Beat your previous High Score.
 
 ---
@@ -175,17 +163,11 @@ or scan the QR code using **Expo Go**.
 # 🌟 Future Improvements
 
 - 🎵 Sound Effects
-
 - 🌙 Dark Mode
-
 - 🏅 Achievements
-
 - ⏱️ Timer Mode
-
 - 🎨 Multiple Themes
-
 - 📈 Leaderboard
-
 - 🎭 Difficulty Levels
 
 ---
