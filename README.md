@@ -1,84 +1,235 @@
 <div align="center">
 
-# 🎮 Memory Game
+# 🧠 Memory Game
 
-A sleek, modern memory card-matching game built with **React Native** and **Expo**.
+### 🎮 A Beautiful Modern Memory Card Matching Game built with React Native + Expo
 
-![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)   
+<p align="center">
 
-![Expo](https://img.shields.io/badge/Expo-SDK%2051-000020?logo=expo&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-SDK%2051-000020?style=for-the-badge&logo=expo)
+![React Native](https://img.shields.io/badge/React%20Native-0.74-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+</p>
 
-![License](https://img.shields.io/badge/license-MIT-green)
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/akshayraj06/Memory-Game/releases/download/v1.0.0/memory-game.apk">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_APK-v1.0.0-6C3483?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
-  </a>
-</div>
+### 🏆 Flip • Match • Win • Beat Your High Score
 
 <br>
 
-<div align="center">
-  <img src="./screenshots/gameplay.png" width="260" />
-  <img src="./screenshots/game-complete.png" width="260" />
+<a href="application-6cd074fe-106e-422c-bed4-4017b9307ec6.apk">
+<img src="https://img.shields.io/badge/⬇️ DOWNLOAD APK-6C3483?style=for-the-badge&logo=android&logoColor=white" />
+</a>
+
+⭐ **If you like this project, don't forget to Star the repository!**
+
 </div>
 
 ---
 
-## 📱 About
-
-Memory Game is a classic pairs-matching game reimagined with a clean, modern UI —
-gradient backgrounds, smooth flip animations, and persistent high-score tracking.
-
-| | |
-|---|---|
-| **App Name** | Memory Game |
-| **Developer** | Y. Akshay Raj |
-| **Version** | 1.0.0 |
-| **Platform** | Android |
-| **Built with** | React Native, Expo, TypeScript |
-
-## ✨ Features
-
-- 🎴 12-card grid with 6 matching pairs, shuffled every round
-- 🌀 Smooth flip and pop animations
-- 🏆 Persistent high score saved locally (AsyncStorage)
-- 🎨 Modern gradient UI
-- 🔁 One-tap restart
-
-## ⬇️ Download
+# 📱 Screenshots
 
 <div align="center">
-  <a href="https://github.com/akshayraj06/Memory-Game/releases/download/v1.0.0/memory-game.apk">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_APK-v1.0.0-6C3483?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
-  </a>
+
+<img src="./screenshots/gameplay.png" width="250"/>
+<img src="./screenshots/game-complete.png" width="250"/>
+
 </div>
 
-Or browse all versions on the [Releases page](https://github.com/akshayraj06/Memory-Game/releases/latest).
+---
 
-> ⚠️ Since this isn't from the Play Store, Android may warn about "installing from
-> unknown sources." You'll need to allow it in your phone's settings the first time.
+# ✨ Features
 
-## 🛠️ Running Locally (for developers)
+✅ Beautiful Modern UI
+
+✅ Gradient Background
+
+✅ Smooth Card Flip Animations
+
+✅ Pop Animation on Match
+
+✅ Random Card Shuffle Every Game
+
+✅ High Score Saved using AsyncStorage
+
+✅ Responsive Layout
+
+✅ One Tap Restart
+
+✅ Fast & Lightweight
+
+✅ Built with Expo
+
+---
+
+# 🎮 Gameplay
+
+The objective is simple:
+
+🃏 Flip two cards.
+
+🎯 Find matching pairs.
+
+🏆 Match all pairs in the fewest moves possible.
+
+🔥 Beat your previous High Score.
+
+---
+
+# 📥 Download APK
+
+<div align="center">
+
+# 👉 [📲 Download Latest APK](YOUR_APK_LINK)
+
+</div>
+
+Or visit the Releases page
+
+👉 https://github.com/akshayraj06/Memory-Game/releases
+
+> Android may ask permission to install apps from Unknown Sources.
+
+---
+
+# 🛠 Built With
+
+| Technology | Purpose |
+|------------|----------|
+| React Native | Mobile Framework |
+| Expo | Development Platform |
+| TypeScript | Programming Language |
+| AsyncStorage | Local Storage |
+| React Native Animated | Card Animations |
+
+---
+
+# 📂 Project Structure
+
+```
+Memory-Game
+│
+├── assets
+├── components
+├── screens
+├── hooks
+├── utils
+├── constants
+├── App.tsx
+└── package.json
+```
+
+---
+
+# 🚀 Installation
+
+Clone the repository
 
 ```bash
 git clone https://github.com/akshayraj06/Memory-Game.git
+```
+
+Go inside the folder
+
+```bash
 cd Memory-Game
+```
+
+Install dependencies
+
+```bash
 npm install
+```
+
+Start Expo
+
+```bash
 npx expo start
 ```
 
-Scan the QR code with the **Expo Go** app to run it on your phone.
+Run Android
 
-## 🧑‍💻 Developer
+```bash
+a
+```
 
-Built by **Y. Akshay Raj**
-[GitHub](https://github.com/akshayraj06)
+or scan the QR code using **Expo Go**.
 
-## 📄 License
+---
 
-This project is licensed under the MIT License.
+# 📊 Project Info
+
+| Property | Value |
+|----------|-------|
+| App Name | Memory Game |
+| Version | 1.0.0 |
+| Developer | Y. Akshay Raj |
+| Platform | Android |
+| Language | TypeScript |
+| Framework | React Native |
+| Build Tool | Expo SDK 51 |
+
+---
+
+# 🌟 Future Improvements
+
+- 🎵 Sound Effects
+
+- 🌙 Dark Mode
+
+- 🏅 Achievements
+
+- ⏱️ Timer Mode
+
+- 🎨 Multiple Themes
+
+- 📈 Leaderboard
+
+- 🎭 Difficulty Levels
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+Feel free to Fork this repository and submit a Pull Request.
+
+---
+
+# 👨‍💻 Developer
+
+## Y. Akshay Raj
+
+💼 Computer Science Engineering (AI & ML)
+
+📍 India
+
+### GitHub
+
+https://github.com/akshayraj06
+
+---
+
+# ⭐ Support
+
+If you enjoyed this project,
+
+please consider giving it a ⭐ on GitHub.
+
+It motivates me to build more awesome projects!
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+<div align="center">
+
+## ❤️ Thanks for Visiting!
+
+Happy Coding 🚀
+
+</div>
