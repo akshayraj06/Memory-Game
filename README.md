@@ -41,16 +41,16 @@
 
 # ✨ Features
 
-✅ Beautiful Modern UI
-✅ Gradient Background
-✅ Smooth Card Flip Animations
-✅ Pop Animation on Match
-✅ Random Card Shuffle Every Game
-✅ High Score Saved using AsyncStorage
-✅ Responsive Layout
-✅ One Tap Restart
-✅ Fast & Lightweight
-✅ Built with Expo
+ Beautiful Modern UI
+| Gradient Background
+| Smooth Card Flip Animations
+| Pop Animation on Match
+| Random Card Shuffle Every Game
+| High Score Saved using AsyncStorage
+| Responsive Layout
+| One Tap Restart
+| Fast & Lightweight
+| Built with Expo
 
 ---
 
